@@ -27,7 +27,7 @@ This hands-on practice reinforces my skills, and I can see myself getting more c
 
 ## Certifications
 
-I am scheduled to take my Security+ examination in the Fall 2024 and then move onaward to my Network+ certification before the end of 2024. 
+I acquired my CompTIA Security+ certification in March 2025; Currently, I am studying to take the CompTIA Network+ certification. 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
