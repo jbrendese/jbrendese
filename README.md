@@ -9,13 +9,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Interests
 
-I am currently studying for the SYO-701 Security + examination; therefore, my focus has been studying. Nevertheless, although constantly developing, I find vulnerability analysis incredibly fascinating because it allows me to delve into the intricacies of cybersecurity and understand the weaknesses that can compromise systems, networks, and applications. What draws me to this field is the challenge of identifying and mitigating potential threats before malicious actors can exploit them.
+I am currently preparing for the Network+ examination; therefore, my focus has been on studying. Although constantly evolving, I find vulnerability analysis incredibly fascinating because it allows me to delve into the intricacies of cybersecurity and understand the weaknesses that can compromise systems, networks, and applications. What draws me to this field is the challenge of identifying and mitigating potential threats before malicious actors can exploit them.
 
 The vulnerability analysis process requires a meticulous and analytical approach, which I thoroughly enjoy. It involves scanning systems, interpreting reports, and assessing the impact of identified vulnerabilities. Additionally, I love staying current with the latest trends and techniques in cybersecurity, as this field is constantly evolving.
 
 Moreover, vulnerability analysis is about discovering vulnerabilities and understanding how they can be exploited and their potential consequences. This aspect of predicting and preventing attacks excites me, as it feels like solving a complex and ever-changing puzzle.
 
-I am mainly motivated by making the digital world safer and more secure. By effectively conducting vulnerability analysis, I feel that I can contribute to protecting sensitive data and maintaining the trust of users and organizations. This sense of purpose drives me to continue learning and improving my skills in this crucial area of cybersecurity.
+I am mainly motivated by making the digital world safer and more secure. By effectively conducting vulnerability analysis, I believe I can help protect sensitive data and maintain the trust of users and organizations. This sense of purpose drives me to continue learning and improving my skills in this crucial area of cybersecurity.
 
 ## Current Learning 
 
@@ -34,5 +34,5 @@ I acquired my CompTIA Security+ certification in March 2025; Currently, I am stu
 </div>
 
 ## Projects
-Flare VM Installation
+Flare VM Installation with Malware Analysis 
 
