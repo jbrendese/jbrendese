@@ -1,7 +1,7 @@
 # Hello, I'm Jonathan Brendese  👋
 <a href="https://linkedin.com/in/jonathanjbrendese"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound passion for technology and a dedication to solving complex problems. These qualities have led me to pursue a career in cybersecurity. I am excited by the field's dynamic and intellectually stimulating nature, where I can protect sensitive data and ensure digital integrity. The challenge of staying ahead of cybercriminals and solving new problems daily motivates me. In addition, I am committed to promoting inclusivity, believing that diverse perspectives enhance security solutions. I aim to combine my love for technology with a drive to make a positive impact in cybersecurity.
+Forward-thinking cybersecurity professional with a proven ability to simplify complex problems and deliver scalable, real-world solutions. Skilled in real-time monitoring, incident investigation, and threat intelligence using tools like QRadar and SentinelOne. Known for enhancing visibility, reducing incident resolution times, and driving cross-functional collaboration on risk and compliance initiatives. Combines technical depth with strategic insight to transform ambiguity into opportunity and foster continuous improvement across teams and systems.
 
 ## Objective
 
